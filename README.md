@@ -1,12 +1,12 @@
 # Mario
 
-Небольшая игра на PyGame, просто чтобы познакомиться с библиотекой.
+A little game on PyGame, just to get acquainted with the library.
 
-Что сделать, чтобы работало:
+What to do to make it work:
 
-Необходимо установить зависимости (pip install -r requirements.txt)
+Dependencies need to be installed (pip install -r requirements.txt)
 
-Запустить файл mario.py
+Run the file mario.py
 
-Играть!
+Play!
 
